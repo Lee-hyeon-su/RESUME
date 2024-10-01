@@ -1,48 +1,52 @@
 # 이력서
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
 ![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 ## 소개
-![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
-- 이름: 정성민
-- 군필여부: 병역특례로 복무완료
-- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행, 캠핑
-- Email: jspiner@naver.com
-- GitHub: [github.com/jspiner](https://github.com/jspiner)
-- LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
+![증명사진](https://github.com/user-attachments/assets/6e7c59d6-1078-48ef-88ab-ee2de22cd3c5)
+- 이름: 이현수
+- 군필여부: 해군 병장 만기전역
+- 생년월일: 2001.02.17
+- 취미: 헬스, 축구
+- Email: gustrla0217@naver.com
 
 ```
-엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
+정직하고 성실하게 살아가는 것이 목표입니다.
 ```
 
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
 
-## Enginnering Ladders
-[Engineering Ladders](https://medium.com/@ryanparkdev/engineering-ladders%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%B1%EC%9E%A5%EB%B0%A9%ED%96%A5-%EC%B0%BE%EA%B8%B0-c52112b5c34f)로 표현해본 제 스킬은 이렇습니다.
+## 자격증
+- 운전면허 1종보통(보유) 
+- 컴퓨터활용능력 1급 필기(실기예정) 
+- 오픽 IH(예정)
+## 교육 및 교내활동
+- 전력전자연구실 학부연구생
+- 전력전자연구실 "전력전자를 위한 DSP보드 활용교육" 30시간 과정 수료
+- 전력전자 연구실 "DC모터 전류 제어 " 50시간 과정 수료
+- KMOOC 미래모빌리티 : 자동차 산업의 드렌드와 기술 8주차(24시간) 교육과정 수료
+- 학과 소모임 뢰전 부회장 (23.09 - 24.09)
+- 학과 2학년 학생대표(23년)
+- 현대NGV 신에너지 자동차 지능형자동차 분야 온리안강좌 교육( 예정)
 
-<img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
+## 학력 및 병역사항
+- 광운대학교 전자정보공과대학 전기공학과 3학년 재학(2020 입학
+- 해군 제 1함대사령부 212전진기지 전기병 병장 만기전역
+- 양양고등학교 졸업(2017.3 ~ 2020.2)
+- 양양중학교 졸업(2014.3 ~ 2017.2)
+- 양양초등학교 졸업(2008.3 ~ 2014.2)
 
-## 회사경력
-- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
-- [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
-- [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
-- 프리랜서(2014 ~ 2016)
-
-## 대외활동
-- [ifkakao 2022 발표](https://www.youtube.com/watch?v=YXi0eipXBKk) - CI & Remote Build (2022)
-- 네이버 부스트캠프 코드 리뷰어(2021)
-- Mashup 개발동아리(2017 ~ 2018)
-- 소프트웨어 마에스트로 7기(2016 ~ 2017)
-- 차세대보안리더 BoB 4기(2015)
-- 삼성소프트웨어멤버십 주니어 1기(2014)
-
-## 학력
-- 세종대학교 컴퓨터공학과 3학년 휴학(2015 입학)
-- 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
-
+## Todo list
+- Opic IH 이상 취득 (현대 사회에서 회사 취업을 위해서 영어는 필수적인 항목이다. 그중 Opic은 영어 스피킹 능력을 보여주기 좋다고 생각하며 채용공고를 살펴봐도 Opic을 조건으로 내놓은 회사가 많음을 알 수 있다.)
+- 현대 NGV 신에너지 자동차 지능형자동차 분야 온리안강좌 교육 (자동차 관련 기업 취업을 위해서 시간을 내어 교육을 수료하면 도움이 많이되고 나중에 면접시 어필 하기 좋기에 수강하려 한다.)
+- 전공학점 향상 (대학 생활을 간접적으로 보여줄 수 있는 부분이 학점이라 생각한다. 특히 공대에선 전공적합성을 중요시하는 경향이 존재하기에 현재 4점대 극초반의 전공 성적을 4점 중반대로 올리는 것이 목표이다. 총 학점 또한 4.0이상을 넘기며 졸업하는 것이 나의 목표이다.)
+- 운동 (공부를 열심히 하기 위해선 건강한 몸이 뒷받침이 되어야 한다고 생각한다. 실제로 3년간 헬스를 꾸준히 해옴으로써 몸도 건강해지고 체력도 늘었기 때문에 미래를 위해서는 지금처럼 꾸준히 운동을 할 계획이다.)
+## 장점
+1. 단체 혹은 조직 생활에서의 적응력
+ (어릴 적 부터 초등학교 전교 부회장, 중학교 전교회장, 고등학교 선도부,고등학교 아두이노 동아리 회장,  대학교 학생회, 2학년 학년대표, 학과 축구 소모임 부회장 등의 경험을 통해 다양한 사람들과 단체 혹은 조직생활을 하며 사람과 어울리는 법을 터득 하였고, 부회장, 회장등의 경험을 통해 리더쉽 또한 크게 성장 시킬 수 있었습니다.)
+2. 계획
+   (어떤 일을 실행하기전 계획을 먼저 수립하고 수행합니다. 학교 생활을 함에 있어선 월별 계획서를 수립하여 내가 해야 할 일들을 항상 숙지하며 살아가기에 잊어버려서 일을 하지 못하는 경우가 발생하지 않습니다. 이런 습관이 성실한 삶을 살아가는데 있어 중요한 노력이라고 생각합니다. )
+   
+ 
 ## 오픈소스 기여
 
 ### airbnb/mavericks
